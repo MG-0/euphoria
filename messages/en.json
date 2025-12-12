@@ -1,0 +1,18 @@
+{
+
+    "NavBar": {
+      "shop": "Shop",
+      "men": "Men",
+      "woman":"Woman",
+      "kids": "Kids",
+      "search":"Search"
+    },
+  "Home": {
+    "title": "Welcome to the Home Page",
+    "description": "This is the main landing page of our application."
+  },
+  "About": {
+    "title": "About Us",
+    "description": "Learn more about our mission and values."
+  }
+}

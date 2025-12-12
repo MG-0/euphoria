@@ -1,0 +1,5 @@
+/* Import other CSS first */
+@import "./layouts/navbar/NavBar.css";
+
+/* Import Tailwind */
+@import "tailwindcss";
